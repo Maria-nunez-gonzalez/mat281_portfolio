@@ -10,7 +10,7 @@
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
-## Portafolio Personal
+## Portafolio Personal María José Núñez González
 
 ### Setup
 
